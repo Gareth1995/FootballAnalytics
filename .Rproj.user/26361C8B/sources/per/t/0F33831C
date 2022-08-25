@@ -1,0 +1,27 @@
+{
+    "id": "0F33831C",
+    "path": "D:/Projects/Football Analytics/statsbomb/radarPlot.r",
+    "project_path": "radarPlot.r",
+    "type": "r_source",
+    "hash": "2271237855",
+    "contents": "",
+    "dirty": false,
+    "created": 1661423647879.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "77,35",
+        "scrollLine": "65"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1661423198,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1661423198,
+    "read_only": false,
+    "read_only_alternatives": []
+}
